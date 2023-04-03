@@ -1,15 +1,15 @@
-Basic-banking-system-TSF
+# Basic-banking-system-TSF
 
 
-Hello everyone!
-Hope you all are doing well. I am Jayanth Onteru currently working as a Web Development and Designing Intern in GRIP at The Sparks Foundation. 
-This is the #task1 given to me. Task 1 - Basic banking System Create a simple dynamic website which has the following specs.
+Greetings! My name is Jayanth Onteru, and I am currently interning as a Web Development and Designing Intern at The Sparks Foundation. I was assigned Task 1, which is to create a simple dynamic website for a basic banking system that fulfills the following requirements.
 
-1.Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic fields such as name,email, current balance etc. 
-Transfers table will record all transfers happened.
+- The flow of the website starts with a homepage that has links to view all customers and transaction history. Users can then view all customers, their account balance, and transfer money to another customer. Additionally, users can select a specific customer, view their account details and transaction history, and transfer money to another customer. Finally, there is a transaction history page that displays all past transactions.
 
-2.Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers .
+- The website does not have a login page or a user creation feature, and the only function is to transfer money between multiple users.
 
-3.No Login Page. No User Creation. Only transfer of money between multiple users.
+- To host the website, I chose to use  github.io . I also checked in the code on GitLab, where the repository contains all the details of the website.
 
-4.Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab. The repository contains all the details of the website. 
+
+
+
+
