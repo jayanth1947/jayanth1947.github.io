@@ -10,6 +10,18 @@ Greetings! My name is Jayanth Onteru, and I am currently interning as a Web Deve
 - To host the website, I chose to use  github.io . I also checked in the code on GitLab, where the repository contains all the details of the website.
 
 
+## Technologies Used
+The project was built using the following technologies:
 
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+Demo
+A demo of the project can be found at the following link: https://basic-banking-system-jo.herokuapp.com/
+
+## Conclusion
+The basic banking system project demonstrates the use of web development technologies and database management to create a simple and user-friendly banking system. The project can be useful for small businesses and organizations looking for a simple way to manage financial transactions
 
 
