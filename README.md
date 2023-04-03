@@ -19,7 +19,7 @@ The project was built using the following technologies:
 - MySQL
 
 Demo
-A demo of the project can be found at the following link: https://basic-banking-system-jo.herokuapp.com/
+A demo of the project can be found at the following link: [demo](https://jayanth1947.github.io/)
 
 ## Conclusion
 The basic banking system project demonstrates the use of web development technologies and database management to create a simple and user-friendly banking system. The project can be useful for small businesses and organizations looking for a simple way to manage financial transactions
